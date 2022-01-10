@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello sir
+=======
+1.to fix the bug1234
+2.change for rebase DR2
+>>>>>>> dce238a (DR2:file2 updated for numer and newline cr2 fixed)
